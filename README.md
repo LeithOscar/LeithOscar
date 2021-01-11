@@ -11,12 +11,7 @@ const aboutMe = {
   tools: [Azure,MongoDB,NServiceBus,Redis],
   ID: [VSCode, VStudio],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  projects: {
-                        title: "Nuwe",
-                        description: "The development and job search platform of the future",
-                        url: "https://nuwe.io"
-                      },
- challenge: "I am about to start the #100DaysOfCode challenge focusing on React and JS"
+ challenge: "I am about to start thecertificationexam azure fundamentals AZ-9090"
 }
 
 ```

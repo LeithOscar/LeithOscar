@@ -3,8 +3,9 @@
 
 [Linkedin: leith-oscar](https://www.linkedin.com/in/leith-oscar/)
 
-###About me
+### About me
 
+```javascript
 const aboutMe = {
   code: [Javascript, TypeScript, CSS, c#],
   tools: [Azure,MongoDB,NServiceBus,Redis],
@@ -18,3 +19,4 @@ const aboutMe = {
  challenge: "I am about to start the #100DaysOfCode challenge focusing on React and JS"
 }
 
+```

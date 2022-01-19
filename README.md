@@ -2,9 +2,9 @@
 
 
 
-[Linkedin: leith-oscar](https://www.linkedin.com/in/leith-oscar/)
 
-[<img src="https://img.shields.io/badge/linkedin-nimishbongale-blue?style=for-the-badge&logo=linkedin"/>][3]
+
+[<img src="https://img.shields.io/badge/linkedin-nimishbongale-blue?style=for-the-badge&logo=linkedin"/>][1]
 
 
 ### About me
@@ -19,3 +19,5 @@ const aboutMe = {
 }
 
 ```
+
+[1]: https://www.linkedin.com/in/leith-oscar/

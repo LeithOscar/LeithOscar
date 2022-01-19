@@ -7,11 +7,11 @@
 
 ```javascript
 const aboutMe = {
-  code: [Javascript, TypeScript, CSS, c#],
-  tools: [Azure,MongoDB,NServiceBus,Redis],
-  ID: [VSCode, VStudio],
-  architecture: ["microservices", "event-driven", "design system pattern"],
- challenge: "I am about to start thecertificationexam azure fundamentals AZ-9090"
+  stack: ['TypeScript','Javascript','Karma', 'HTML','CSS','Net Core'],
+  tools: ['Azure','MongoDB','NServiceBus','Redis'],
+  azure:['Azure WebJobs','AppServices','Key vault','Functions','Api Management']
+  ID: ['VSCode','VStudio','Application Insights'],
+  architecture: ['microservices', 'event-driven', 'design system pattern'], 
 }
 
 ```

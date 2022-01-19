@@ -10,11 +10,11 @@ I'm currently a FullStack Developer at Wolters kluwer. Here's a glimpse of the t
 
 ```javascript
 const aboutMe = {
-  stack: ['TypeScript','Javascript','Karma', 'HTML','CSS','Net Core'],
+  stacks: ['TypeScript','Javascript','Karma', 'HTML','CSS','Net Core'],
   tools: ['Azure','MongoDB','NServiceBus','Redis'],
-  azure:['Azure WebJobs','AppServices','Key vault','Functions','Api Management']
-  ID: ['VSCode','VStudio','Application Insights'],
-  architecture: ['microservices', 'event-driven', 'design system pattern'], 
+  azure:['Azure WebJobs','AppServices','Key vault','Functions','Api Management'],
+  iDes: ['VSCode','VStudio','Application Insights'],
+  architectures: ['microservices', 'event-driven', 'design system pattern'], 
 }
 
 ```

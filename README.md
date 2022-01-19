@@ -3,6 +3,10 @@
 
 
 [Linkedin: leith-oscar](https://www.linkedin.com/in/leith-oscar/)
+
+[<img src="https://img.shields.io/badge/linkedin-nimishbongale-blue?style=for-the-badge&logo=linkedin"/>][3]
+
+
 ### About me
 
 ```javascript

@@ -2,7 +2,7 @@
 
 
 [Linkedin: leith-oscar](https://www.linkedin.com/in/leith-oscar/)
-
+[![Contributors][contributors-shield]][contributors-url]
 ### About me
 
 ```javascript

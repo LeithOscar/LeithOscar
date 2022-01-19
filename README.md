@@ -4,7 +4,7 @@
 
 
 
-[<img src="https://img.shields.io/badge/linkedin-nimishbongale-blue?style=for-the-badge&logo=linkedin"/>][1]
+[<img src="https://img.shields.io/badge/linkedin-LeithOscar-blue?style=for-the-badge&logo=linkedin"/>][1]
 
 
 ### About me

@@ -27,7 +27,7 @@ const aboutMe = {
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
 ![ReactJS](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white)
 ![UIX](https://img.shields.io/badge/uix-%23E34F26.svg?style=for-the-badge&logo=uix&logoColor=white)
-![.NET](https://img.shields.io/badge/.net-%23E34F26.svg?style=for-the-badge&logo=net&logoColor=white)
+![.NET](https://img.shields.io/badge/NetCore-net-blue)
 <h2>more in..</h2>
 
 [<img src="https://img.shields.io/badge/linkedin-LeithOscar-blue?style=for-the-badge&logo=linkedin"/>][1]

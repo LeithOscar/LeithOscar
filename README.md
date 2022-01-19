@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Leith Oscar </h2>
 
 
-I'm currently a FullStack Developer at Wolters kluwer. Here's a peek at my professional life timeline!
+I'm currently a FullStack Developer at Wolters kluwer. Here's a glimpse of the techs I've been able to touch in my professional life!!
 
 
 

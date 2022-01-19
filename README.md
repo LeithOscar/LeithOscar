@@ -25,13 +25,12 @@ const aboutMe = {
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
 ![ReactJS](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white)
-
+</br>
 
 
 
 
 <h2>Social </h2>
 [<img src="https://img.shields.io/badge/linkedin-LeithOscar-blue?style=for-the-badge&logo=linkedin"/>][1]
-
 
 [1]: https://www.linkedin.com/in/leith-oscar/
